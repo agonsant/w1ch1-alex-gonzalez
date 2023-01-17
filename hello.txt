@@ -1,1 +1,2 @@
-Las cosas de nuestro proyecto
+Las cosas de nuestro proyecto.
+Este cambio me ayuda a evolucionar mi código independiente
